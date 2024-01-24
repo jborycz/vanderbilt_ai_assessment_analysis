@@ -1,0 +1,205 @@
+﻿ID,course_code,subject,course_number,level,before_after,answer_number,answer_text
+1,CHEM_3630/5630,CHEM,3630_5630,mixed,before,2,Rarely
+2,CHEM_3630/5630,CHEM,3630_5630,mixed,before,2,Rarely
+3,CHEM_3630/5630,CHEM,3630_5630,mixed,before,1,Never
+4,ENGM_2210,ENGM,2210,undergrad,before,1,Never
+5,ENGM_2210,ENGM,2210,undergrad,before,1,Never
+6,ENGM_2210,ENGM,2210,undergrad,before,5,Very often
+7,ENGM_2210,ENGM,2210,undergrad,before,1,Never
+8,ENGM_2210,ENGM,2210,undergrad,before,1,Never
+9,ENGM_2210,ENGM,2210,undergrad,before,3,Sometimes
+10,ENGM_2210,ENGM,2210,undergrad,before,1,Never
+11,ES_2210,ES,2210,undergrad,before,2,Rarely
+12,ENGM_2210,ENGM,2210,undergrad,before,2,Rarely
+13,ENGM_2210,ENGM,2210,undergrad,before,3,Sometimes
+14,ENGM_2210,ENGM,2210,undergrad,before,1,Never
+15,ENGM_2210,ENGM,2210,undergrad,before,3,Sometimes
+16,CHEM_3630/5630,CHEM,3630_5630,mixed,before,3,Sometimes
+17,BME_8901,BME,8901,grad,before,1,Never
+18,BME_8901,BME,8901,grad,before,4,Often
+19,BME_8901,BME,8901,grad,before,2,Rarely
+20,BME_8901,BME,8901,grad,before,1,Never
+21,BME_8901,BME,8901,grad,before,5,Very often
+22,BME_8901,BME,8901,grad,before,3,Sometimes
+23,BME_8901,BME,8901,grad,before,2,Rarely
+24,BME_8901,BME,8901,grad,before,1,Never
+25,BME_8901,BME,8901,grad,before,1,Never
+26,BME_8901,BME,8901,grad,before,1,Never
+27,BME_8901,BME,8901,grad,before,2,Rarely
+28,BME_8901,BME,8901,grad,before,2,Rarely
+29,BME_8901,BME,8901,grad,before,2,Rarely
+30,BME_8901,BME,8901,grad,before,2,Rarely
+31,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+32,ECE_4950,ECE,4950,undergrad,before,1,Never
+33,ECE_4950,ECE,4950,undergrad,before,2,Rarely
+34,ECE_4950,ECE,4950,undergrad,before,2,Rarely
+35,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+36,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+37,ECE_4950,ECE,4950,undergrad,before,2,Rarely
+38,ECE_4950,ECE,4950,undergrad,before,1,Never
+39,ECE_4950,ECE,4950,undergrad,before,4,Often
+40,ECE_4950,ECE,4950,undergrad,before,4,Often
+41,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+42,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+43,ECE_4950,ECE,4950,undergrad,before,2,Rarely
+44,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+45,ECE_4950,ECE,4950,undergrad,before,4,Often
+46,ECE_4950,ECE,4950,undergrad,before,2,Rarely
+47,ECE_4950,ECE,4950,undergrad,before,1,Never
+48,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+49,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+50,ECE_4950,ECE,4950,undergrad,before,1,Never
+51,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+52,ECE_4950,ECE,4950,undergrad,before,1,Never
+53,ECE_4950,ECE,4950,undergrad,before,1,Never
+54,ECE_4950,ECE,4950,undergrad,before,2,Rarely
+55,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+56,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+57,ECE_4950,ECE,4950,undergrad,before,5,Very often
+58,ECE_4950,ECE,4950,undergrad,before,3,Sometimes
+59,ECE_4950,ECE,4950,undergrad,before,2,Rarely
+60,ECE_4950,ECE,4950,undergrad,before,1,Never
+61,ECE_4950,ECE,4950,undergrad,before,2,Rarely
+62,ECE_4950,ECE,4950,undergrad,before,2,Rarely
+63,ECE_4950,ECE,4950,undergrad,before,1,Never
+64,BME_4950,BME,4950,undergrad,before,3,Sometimes
+65,BME_4950,BME,4950,undergrad,before,4,Often
+66,BME_4950,BME,4950,undergrad,before,4,Often
+67,BME_4950,BME,4950,undergrad,before,3,Sometimes
+68,BME_4950,BME,4950,undergrad,before,1,Never
+69,CHBE_4950,CHBE,4950,undergrad,before,2,Rarely
+70,CHBE_4950,CHBE,4950,undergrad,before,4,Often
+71,CHBE_4950,CHBE,4950,undergrad,before,3,Sometimes
+72,CHBE_4950,CHBE,4950,undergrad,before,2,Rarely
+73,CHBE_4950,CHBE,4950,undergrad,before,2,Rarely
+74,CE_2120,CE,2120,undergrad,before,2,Rarely
+75,CE_2120,CE,2120,undergrad,before,1,Never
+76,CHBE_4950,CHBE,4950,undergrad,before,2,Rarely
+77,CHBE_4950,CHBE,4950,undergrad,before,1,Never
+78,CHBE_4950,CHBE,4950,undergrad,before,1,Never
+79,CE_2120,CE,2120,undergrad,before,2,Rarely
+80,BME_4950,BME,4950,undergrad,before,2,Rarely
+81,CE_2120,CE,2120,undergrad,before,3,Sometimes
+82,CE_2120,CE,2120,undergrad,before,3,Sometimes
+83,CPBP_8306,CPBP,8306,grad,before,1,Never
+84,CPBP_8306,CPBP,8306,grad,before,2,Rarely
+85,CPBP_8306,CPBP,8306,grad,before,3,Sometimes
+86,CPBP_8306,CPBP,8306,grad,before,5,Very often
+87,CPBP_8306,CPBP,8306,grad,before,3,Sometimes
+88,CPBP_8306,CPBP,8306,grad,before,1,Never
+89,CPBP_8306,CPBP,8306,grad,before,4,Often
+90,CPBP_8306,CPBP,8306,grad,before,2,Rarely
+91,CPBP_8306,CPBP,8306,grad,before,1,Never
+92,CPBP_8306,CPBP,8306,grad,before,1,Never
+93,BME_4950,BME,4950,undergrad,before,2,Rarely
+94,CSET_3200,CSET,3200,grad,before,2,Rarely
+95,CSET_3200,CSET,3200,grad,before,3,Sometimes
+96,CSET_3200,CSET,3200,grad,before,1,Never
+97,CSET_3200,CSET,3200,grad,before,2,Rarely
+98,ES_2210,ES,2210,grad,before,3,Sometimes
+99,ES_2210,ES,2210,grad,before,1,Never
+100,ES_2210,ES,2210,grad,before,2,Rarely
+101,ES_2210,ES,2210,grad,before,1,Never
+102,ES_2210,ES,2210,grad,before,3,Sometimes
+1,CHEM_3630/5630,CHEM,3630_5630,mixed,after,4,Likely
+2,CHEM_3630/5630,CHEM,3630_5630,mixed,after,3,Neither likely nor unlikely
+3,CHEM_3630/5630,CHEM,3630_5630,mixed,after,3,Neither likely nor unlikely
+4,ENGM_2210,ENGM,2210,undergrad,after,1,Very unlikely
+5,ENGM_2210,ENGM,2210,undergrad,after,3,Neither likely nor unlikely
+6,ENGM_2210,ENGM,2210,undergrad,after,5,Very likely
+7,ENGM_2210,ENGM,2210,undergrad,after,2,Unlikely
+8,ENGM_2210,ENGM,2210,undergrad,after,4,Likely
+9,ENGM_2210,ENGM,2210,undergrad,after,4,Likely
+10,ENGM_2210,ENGM,2210,undergrad,after,4,Likely
+11,ES_2210,ES,2210,undergrad,after,4,Likely
+12,ENGM_2210,ENGM,2210,undergrad,after,3,Neither likely nor unlikely
+13,ENGM_2210,ENGM,2210,undergrad,after,4,Likely
+14,ENGM_2210,ENGM,2210,undergrad,after,1,Very unlikely
+15,ENGM_2210,ENGM,2210,undergrad,after,4,Likely
+16,CHEM_3630/5630,CHEM,3630_5630,mixed,after,4,Likely
+17,BME_8901,BME,8901,grad,after,3,Neither likely nor unlikely
+18,BME_8901,BME,8901,grad,after,5,Very likely
+19,BME_8901,BME,8901,grad,after,4,Likely
+20,BME_8901,BME,8901,grad,after,2,Unlikely
+21,BME_8901,BME,8901,grad,after,5,Very likely
+22,BME_8901,BME,8901,grad,after,4,Likely
+23,BME_8901,BME,8901,grad,after,4,Likely
+24,BME_8901,BME,8901,grad,after,4,Likely
+25,BME_8901,BME,8901,grad,after,3,Neither likely nor unlikely
+26,BME_8901,BME,8901,grad,after,3,Neither likely nor unlikely
+27,BME_8901,BME,8901,grad,after,3,Neither likely nor unlikely
+28,BME_8901,BME,8901,grad,after,3,Neither likely nor unlikely
+29,BME_8901,BME,8901,grad,after,4,Likely
+30,BME_8901,BME,8901,grad,after,4,Likely
+31,ECE_4950,ECE,4950,undergrad,after,3,Neither likely nor unlikely
+32,ECE_4950,ECE,4950,undergrad,after,1,Very unlikely
+33,ECE_4950,ECE,4950,undergrad,after,4,Likely
+34,ECE_4950,ECE,4950,undergrad,after,4,Likely
+35,ECE_4950,ECE,4950,undergrad,after,4,Likely
+36,ECE_4950,ECE,4950,undergrad,after,3,Neither likely nor unlikely
+37,ECE_4950,ECE,4950,undergrad,after,4,Likely
+38,ECE_4950,ECE,4950,undergrad,after,4,Likely
+39,ECE_4950,ECE,4950,undergrad,after,4,Likely
+40,ECE_4950,ECE,4950,undergrad,after,4,Likely
+41,ECE_4950,ECE,4950,undergrad,after,4,Likely
+42,ECE_4950,ECE,4950,undergrad,after,4,Likely
+43,ECE_4950,ECE,4950,undergrad,after,3,Neither likely nor unlikely
+44,ECE_4950,ECE,4950,undergrad,after,3,Neither likely nor unlikely
+45,ECE_4950,ECE,4950,undergrad,after,4,Likely
+46,ECE_4950,ECE,4950,undergrad,after,2,Unlikely
+47,ECE_4950,ECE,4950,undergrad,after,4,Likely
+48,ECE_4950,ECE,4950,undergrad,after,3,Neither likely nor unlikely
+49,ECE_4950,ECE,4950,undergrad,after,5,Very likely
+50,ECE_4950,ECE,4950,undergrad,after,4,Likely
+51,ECE_4950,ECE,4950,undergrad,after,5,Very likely
+52,ECE_4950,ECE,4950,undergrad,after,4,Likely
+53,ECE_4950,ECE,4950,undergrad,after,2,Unlikely
+54,ECE_4950,ECE,4950,undergrad,after,4,Likely
+55,ECE_4950,ECE,4950,undergrad,after,3,Neither likely nor unlikely
+56,ECE_4950,ECE,4950,undergrad,after,4,Likely
+57,ECE_4950,ECE,4950,undergrad,after,5,Very likely
+58,ECE_4950,ECE,4950,undergrad,after,4,Likely
+59,ECE_4950,ECE,4950,undergrad,after,4,Likely
+60,ECE_4950,ECE,4950,undergrad,after,4,Likely
+61,ECE_4950,ECE,4950,undergrad,after,4,Likely
+62,ECE_4950,ECE,4950,undergrad,after,4,Likely
+63,ECE_4950,ECE,4950,undergrad,after,5,Very likely
+64,BME_4950,BME,4950,undergrad,after,3,Neither likely nor unlikely
+65,BME_4950,BME,4950,undergrad,after,4,Likely
+66,BME_4950,BME,4950,undergrad,after,5,Very likely
+67,BME_4950,BME,4950,undergrad,after,4,Likely
+68,BME_4950,BME,4950,undergrad,after,3,Neither likely nor unlikely
+69,CHBE_4950,CHBE,4950,undergrad,after,5,Very likely
+70,CHBE_4950,CHBE,4950,undergrad,after,4,Likely
+71,CHBE_4950,CHBE,4950,undergrad,after,3,Neither likely nor unlikely
+72,CHBE_4950,CHBE,4950,undergrad,after,5,Very likely
+73,CHBE_4950,CHBE,4950,undergrad,after,4,Likely
+74,CE_2120,CE,2120,undergrad,after,4,Likely
+75,CE_2120,CE,2120,undergrad,after,3,Neither likely nor unlikely
+76,CHBE_4950,CHBE,4950,undergrad,after,4,Likely
+77,CHBE_4950,CHBE,4950,undergrad,after,4,Likely
+78,CHBE_4950,CHBE,4950,undergrad,after,2,Unlikely
+79,CE_2120,CE,2120,undergrad,after,4,Likely
+80,BME_4950,BME,4950,undergrad,after,1,Very unlikely
+81,CE_2120,CE,2120,undergrad,after,4,Likely
+82,CE_2120,CE,2120,undergrad,after,2,Unlikely
+83,CPBP_8306,CPBP,8306,grad,after,3,Neither likely nor unlikely
+84,CPBP_8306,CPBP,8306,grad,after,4,Likely
+85,CPBP_8306,CPBP,8306,grad,after,5,Very likely
+86,CPBP_8306,CPBP,8306,grad,after,5,Very likely
+87,CPBP_8306,CPBP,8306,grad,after,4,Likely
+88,CPBP_8306,CPBP,8306,grad,after,4,Likely
+89,CPBP_8306,CPBP,8306,grad,after,5,Very likely
+90,CPBP_8306,CPBP,8306,grad,after,5,Very likely
+91,CPBP_8306,CPBP,8306,grad,after,4,Likely
+92,CPBP_8306,CPBP,8306,grad,after,3,Neither likely nor unlikely
+93,BME_4950,BME,4950,undergrad,after,4,Likely
+94,CSET_3200,CSET,3200,grad,after,4,Likely
+95,CSET_3200,CSET,3200,grad,after,4,Likely
+96,CSET_3200,CSET,3200,grad,after,1,Very unlikely
+97,CSET_3200,CSET,3200,grad,after,3,Neither likely nor unlikely
+98,ES_2210,ES,2210,grad,after,2,Unlikely
+99,ES_2210,ES,2210,grad,after,4,Likely
+100,ES_2210,ES,2210,grad,after,4,Likely
+101,ES_2210,ES,2210,grad,after,3,Neither likely nor unlikely
+102,ES_2210,ES,2210,grad,after,4,Likely
