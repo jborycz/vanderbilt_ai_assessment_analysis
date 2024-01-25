@@ -8,6 +8,7 @@ pacman::p_load(tidyverse,
                data.table,
                stringr,
                readr,
+               ggrepel,
                patchwork)
 
 # Load data

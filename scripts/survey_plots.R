@@ -24,7 +24,7 @@ plot_theme <- theme(legend.position = c(.7, .18),
                     legend.title = element_text(face="bold",size=16),
                     legend.text=element_text(size=20),
                     axis.ticks = element_line(size = 1, colour = "black", linetype=1),
-                    axis.text.x = element_text(color="black",size=16, angle=0),
+                    axis.text.x = element_text(face="bold", color="black",size=20, angle=0),
                     axis.title.x = element_blank(),
                     axis.line.y = element_line(linewidth = 1, colour = "black", linetype=1),
                     axis.text.y = element_text(color="black",size=16, angle=0),
@@ -37,8 +37,8 @@ ai_data_stats_all_plot <- ggplot() +
   geom_point(data = subset(ai_data_stats_all), 
              mapping = aes(x = before_after, y = mean, group = subject, color = subject, shape = subject),
              size = 6, position = "dodge", alpha = 0.3) + 
-  geom_text(data = subset(subset(ai_data_stats_all, before_after=="After")), 
-      mapping = aes(x = before_after, y = mean, group = subject, color = subject, label = n), fontface = "bold", size= 5, hjust = -1) + 
+  geom_text_repel(data = subset(subset(ai_data_stats_all, before_after=="After")), 
+      mapping = aes(x = before_after, y = mean, group = subject, color = subject, label = n), fontface = "bold", size= 5, hjust = -2) + 
   geom_line(data = subset(ai_data_stats_all), 
             mapping = aes(x = before_after, y = mean, group = subject, color = subject),
             linewidth = 1, linetype = "dashed", position = "dodge", alpha = 0.3) +
@@ -59,6 +59,6 @@ ai_data_stats_all_plot <- ggplot() +
   scale_color_manual(values = c("Total"="black", "ENGM"="red", "ES"="blue", "ECE"="green", "CHBE"="darkgreen", "CE"="orange", "CPBP"="magenta","CSET"="purple", "CHEM"="coral","BME"="brown")) + 
   scale_fill_manual(values = c("Total"="black", "ENGM"="red", "ES"="blue", "ECE"="green", "CHBE"="darkgreen", "CE"="orange", "CPBP"="magenta","CSET"="purple", "CHEM"="coral","BME"="brown")) +
   ylim(1, 5) + theme_minimal() + guides(color = guide_legend(override.aes = list(alpha = 1))) + plot_theme
-ggsave("plots/ai_data_stats_all_plot.jpg", plot = ai_data_stats_all_plot, scale = 1,width = 8,height = 10,
+ggsave("plots/ai_data_stats_all_plot.jpg", plot = ai_data_stats_all_plot, scale = 1, width = 8, height = 10,
        dpi = 300,limitsize = TRUE)
   
