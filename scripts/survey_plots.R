@@ -58,7 +58,7 @@ ai_data_stats_all_plot <- ggplot() +
   scale_shape_manual(values = c(16, 2, 3, 4, 5, 6, 7, 8, 9, 0)) + 
   scale_color_manual(values = c("Total"="black", "ENGM"="red", "ES"="blue", "ECE"="green", "CHBE"="darkgreen", "CE"="orange", "CPBP"="magenta","CSET"="purple", "CHEM"="coral","BME"="brown")) + 
   scale_fill_manual(values = c("Total"="black", "ENGM"="red", "ES"="blue", "ECE"="green", "CHBE"="darkgreen", "CE"="orange", "CPBP"="magenta","CSET"="purple", "CHEM"="coral","BME"="brown")) +
-  ylim(1, 5) + theme_minimal() + guides(color = guide_legend(override.aes = list(alpha = 1))) + plot_theme
+  ylim(1, 5) + theme_minimal() + guides(color = guide_legend(override.aes = list(alpha = 1)), color=guide_legend(ncol=2), shape=guide_legend(ncol=2)) + plot_theme
 ggsave("plots/ai_data_stats_all_plot.jpg", plot = ai_data_stats_all_plot, scale = 1, width = 8, height = 10,
        dpi = 300,limitsize = TRUE)
   
