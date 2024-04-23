@@ -1,4 +1,4 @@
-## Main.R
+## main.R
 
 Run this script to run the code and generate the plots
 
