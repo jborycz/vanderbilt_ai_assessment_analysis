@@ -20,7 +20,7 @@ ai_data_stats_all$before_after <- factor(ai_data_stats_all$before_after, levels 
 ai_data_stats_all$subject <- factor(ai_data_stats_all$subject, levels = c("total", "BME", "CE", "CHBE", "CHEM", "CPBP", "CSET", "ECE", "ENGM", "ES"),
                                     labels = c("Total", "BME", "CE", "CHBE", "CHEM", "CPBP", "CSET", "ECE", "ENGM", "ES"))
 
-# Top 3 media plot
+# Likert plot
 plot_theme <- theme(legend.position = c(.7, .18), 
                     plot.tag.position = c(.10, .95),
                     plot.title = element_text(face="bold",size=24,hjust = 0.5),
