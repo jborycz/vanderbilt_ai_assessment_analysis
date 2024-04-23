@@ -1,0 +1,2042 @@
+[
+ {
+   "ID": 1,
+   "course_code": "CHEM_3630/5630",
+   "subject": "CHEM",
+   "course_number": "3630_5630",
+   "level": "mixed",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 2,
+   "course_code": "CHEM_3630/5630",
+   "subject": "CHEM",
+   "course_number": "3630_5630",
+   "level": "mixed",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 3,
+   "course_code": "CHEM_3630/5630",
+   "subject": "CHEM",
+   "course_number": "3630_5630",
+   "level": "mixed",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 4,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 5,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 6,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 5,
+   "answer_text": "Very often"
+ },
+ {
+   "ID": 7,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 8,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 9,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 10,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 11,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 12,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 13,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 14,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 15,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 16,
+   "course_code": "CHEM_3630/5630",
+   "subject": "CHEM",
+   "course_number": "3630_5630",
+   "level": "mixed",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 17,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 18,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 4,
+   "answer_text": "Often"
+ },
+ {
+   "ID": 19,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 20,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 21,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 5,
+   "answer_text": "Very often"
+ },
+ {
+   "ID": 22,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 23,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 24,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 25,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 26,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 27,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 28,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 29,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 30,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 31,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 32,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 33,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 34,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 35,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 36,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 37,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 38,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 39,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 4,
+   "answer_text": "Often"
+ },
+ {
+   "ID": 40,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 4,
+   "answer_text": "Often"
+ },
+ {
+   "ID": 41,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 42,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 43,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 44,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 45,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 4,
+   "answer_text": "Often"
+ },
+ {
+   "ID": 46,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 47,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 48,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 49,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 50,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 51,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 52,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 53,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 54,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 55,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 56,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 57,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 5,
+   "answer_text": "Very often"
+ },
+ {
+   "ID": 58,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 59,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 60,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 61,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 62,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 63,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 64,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 65,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 4,
+   "answer_text": "Often"
+ },
+ {
+   "ID": 66,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 4,
+   "answer_text": "Often"
+ },
+ {
+   "ID": 67,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 68,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 69,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 70,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 4,
+   "answer_text": "Often"
+ },
+ {
+   "ID": 71,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 72,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 73,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 74,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 75,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 76,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 77,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 78,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 79,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 80,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 81,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 82,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 83,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 84,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 85,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 86,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 5,
+   "answer_text": "Very often"
+ },
+ {
+   "ID": 87,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 88,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 89,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 4,
+   "answer_text": "Often"
+ },
+ {
+   "ID": 90,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 91,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 92,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 93,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 94,
+   "course_code": "CSET_3200",
+   "subject": "CSET",
+   "course_number": "3200",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 95,
+   "course_code": "CSET_3200",
+   "subject": "CSET",
+   "course_number": "3200",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 96,
+   "course_code": "CSET_3200",
+   "subject": "CSET",
+   "course_number": "3200",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 97,
+   "course_code": "CSET_3200",
+   "subject": "CSET",
+   "course_number": "3200",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 98,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 99,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 100,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 2,
+   "answer_text": "Rarely"
+ },
+ {
+   "ID": 101,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 1,
+   "answer_text": "Never"
+ },
+ {
+   "ID": 102,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "before",
+   "answer_number": 3,
+   "answer_text": "Sometimes"
+ },
+ {
+   "ID": 1,
+   "course_code": "CHEM_3630/5630",
+   "subject": "CHEM",
+   "course_number": "3630_5630",
+   "level": "mixed",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 2,
+   "course_code": "CHEM_3630/5630",
+   "subject": "CHEM",
+   "course_number": "3630_5630",
+   "level": "mixed",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 3,
+   "course_code": "CHEM_3630/5630",
+   "subject": "CHEM",
+   "course_number": "3630_5630",
+   "level": "mixed",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 4,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 1,
+   "answer_text": "Very unlikely"
+ },
+ {
+   "ID": 5,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 6,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 7,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 2,
+   "answer_text": "Unlikely"
+ },
+ {
+   "ID": 8,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 9,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 10,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 11,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 12,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 13,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 14,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 1,
+   "answer_text": "Very unlikely"
+ },
+ {
+   "ID": 15,
+   "course_code": "ENGM_2210",
+   "subject": "ENGM",
+   "course_number": "2210",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 16,
+   "course_code": "CHEM_3630/5630",
+   "subject": "CHEM",
+   "course_number": "3630_5630",
+   "level": "mixed",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 17,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 18,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 19,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 20,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 2,
+   "answer_text": "Unlikely"
+ },
+ {
+   "ID": 21,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 22,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 23,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 24,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 25,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 26,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 27,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 28,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 29,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 30,
+   "course_code": "BME_8901",
+   "subject": "BME",
+   "course_number": "8901",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 31,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 32,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 1,
+   "answer_text": "Very unlikely"
+ },
+ {
+   "ID": 33,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 34,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 35,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 36,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 37,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 38,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 39,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 40,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 41,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 42,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 43,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 44,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 45,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 46,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 2,
+   "answer_text": "Unlikely"
+ },
+ {
+   "ID": 47,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 48,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 49,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 50,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 51,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 52,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 53,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 2,
+   "answer_text": "Unlikely"
+ },
+ {
+   "ID": 54,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 55,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 56,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 57,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 58,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 59,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 60,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 61,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 62,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 63,
+   "course_code": "ECE_4950",
+   "subject": "ECE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 64,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 65,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 66,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 67,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 68,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 69,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 70,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 71,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 72,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 73,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 74,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 75,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 76,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 77,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 78,
+   "course_code": "CHBE_4950",
+   "subject": "CHBE",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 2,
+   "answer_text": "Unlikely"
+ },
+ {
+   "ID": 79,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 80,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 1,
+   "answer_text": "Very unlikely"
+ },
+ {
+   "ID": 81,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 82,
+   "course_code": "CE_2120",
+   "subject": "CE",
+   "course_number": "2120",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 2,
+   "answer_text": "Unlikely"
+ },
+ {
+   "ID": 83,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 84,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 85,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 86,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 87,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 88,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 89,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 90,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 5,
+   "answer_text": "Very likely"
+ },
+ {
+   "ID": 91,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 92,
+   "course_code": "CPBP_8306",
+   "subject": "CPBP",
+   "course_number": "8306",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 93,
+   "course_code": "BME_4950",
+   "subject": "BME",
+   "course_number": "4950",
+   "level": "undergrad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 94,
+   "course_code": "CSET_3200",
+   "subject": "CSET",
+   "course_number": "3200",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 95,
+   "course_code": "CSET_3200",
+   "subject": "CSET",
+   "course_number": "3200",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 96,
+   "course_code": "CSET_3200",
+   "subject": "CSET",
+   "course_number": "3200",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 1,
+   "answer_text": "Very unlikely"
+ },
+ {
+   "ID": 97,
+   "course_code": "CSET_3200",
+   "subject": "CSET",
+   "course_number": "3200",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 98,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 2,
+   "answer_text": "Unlikely"
+ },
+ {
+   "ID": 99,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 100,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ },
+ {
+   "ID": 101,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 3,
+   "answer_text": "Neither likely nor unlikely"
+ },
+ {
+   "ID": 102,
+   "course_code": "ES_2210",
+   "subject": "ES",
+   "course_number": "2210",
+   "level": "grad",
+   "before_after": "after",
+   "answer_number": 4,
+   "answer_text": "Likely"
+ }
+]
